@@ -20,6 +20,14 @@ Welcome to my personal portfolio! This website showcases my personal information
 
 ---
 
+## Features
+
+- **Interactive Design**: Includes responsive layouts and a modern user experience.
+- **Accessible Links**: Direct access to my GitHub, LinkedIn, and social media.
+- **Dynamic Content**: Includes contact forms for quick communication.
+
+---
+
 ## Home
 The **Home** section introduces you to who I am. You’ll find my tagline, "YOUNG DREAMER, BUILDER OF POSSIBILITIES" and a brief introduction about myself as a first-year BS Computer Science student. If you'd like to know more about me, click the "About Me" button.
 
@@ -58,14 +66,6 @@ Click on the GitHub icon to view the project code.
 The **Contact** section shows ways to connect with me. You can enter your name, email, and message. It also provides quick information about my location, email address, and phone number.
 
 ![Portfolio Screenshot](readme-images/contact-page.png)
-
----
-
-## Features
-
-- **Interactive Design**: Includes responsive layouts and a modern user experience.
-- **Accessible Links**: Direct access to my GitHub, LinkedIn, and social media.
-- **Dynamic Content**: Includes contact forms for quick communication.
 
 ---
 
