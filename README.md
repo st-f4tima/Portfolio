@@ -1,30 +1,31 @@
-# FATIMA PURA'S PORTFOLIO
+# Fatima Pura's Portfolio  
+## My Journey in Computer Science  
 
-Welcome to my personal portfolio! This website showcases my personal information, skills, projects, and contact information. Below are the instructions to help you navigate through it.
-
----
-
-## Table of Contents
-
-### How to Navigate
-
-1. [Home](#home)
-2. [About](#about)
-3. [Skills](#skills)
-4. [Projects](#projects)
-5. [Contact](#contact)
-
-### Program Details
-1. [Features](#features)
-2. [Dependencies](#dependencies)
+### Table of Contents  
+- [How to Navigate](#how-to-navigate)  
+- [Home](#home)  
+- [About](#about)  
+- [Skills](#skills)  
+- [Projects](#projects)  
+- [Contact](#contact)  
+- [Dependencies](#dependencies)  
 
 ---
 
-## Features
+## How to Navigate  
+Explore the portfolio using the navigation bar, which links to key sections:  
+- **Home:** Introduction and tagline.  
+- **About:** Background and academic details.  
+- **Skills:** Technologies and tools I use.  
+- **Projects:** Notable works with descriptions and links.  
+- **Contact:** Ways to connect with me.  
 
-- **Interactive Design**: Includes responsive layouts and a modern user experience.
-- **Accessible Links**: Direct access to my GitHub, LinkedIn, and social media.
-- **Dynamic Content**: Includes contact forms for quick communication.
+---
+
+## Features  
+- **Interactive Design:** Responsive layouts and modern UI.  
+- **Accessible Links:** Quick access to GitHub, LinkedIn, and other profiles.  
+- **Dynamic Content:** Functional contact form for inquiries.  
 
 ---
 
