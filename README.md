@@ -19,8 +19,6 @@ Welcome to my personal portfolio! This website showcases my personal information
 
 ## How to Navigate
 
-### Main Sections:
-
 1. **Home**: A welcoming introduction to who I am, with quick navigation to other sections.
 2. **About**: Detailed information about my academic background and interests.
 3. **Skills**: A breakdown of my current technical skills in frontend, backend, frameworks, and tools.
