@@ -14,7 +14,7 @@ Welcome to my personal portfolio! This website showcases my personal information
 4. [Projects](#projects)
 5. [Contact](#contact)
 
-### PROGRAM DETAILS
+### Program Details
 1. [Features](#features)
 2. [Dependencies](#dependencies)
 
