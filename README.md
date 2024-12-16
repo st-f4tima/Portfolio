@@ -30,7 +30,7 @@ Welcome to my personal portfolio! This website showcases my personal information
 ---
 
 ## Home
-The **Home** section introduces you to who I am. You’ll find my tagline, "YOUNG DREAMER," and a brief introduction about myself as a first-year BS Computer Science student. If you'd like to know more about me, click the "About Me" button.
+The **Home** section introduces you to who I am. You’ll find my tagline, "YOUNG DREAMER, BUILDER OF POSSIBILITIES" and a brief introduction about myself as a first-year BS Computer Science student. If you'd like to know more about me, click the "About Me" button.
 
 - Links to my social media (Facebook, Instagram, LinkedIn, GitHub) are also available for connection.
 
