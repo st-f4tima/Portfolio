@@ -39,7 +39,7 @@ The **Home** section introduces you to who I am. You’ll find my tagline, "YOUN
 ## About
 The **About** section provides a more detailed description of me, including:
 - A brief overview of my background and my current academic journey.
-- - My contact information.
+- My contact information.
 - My completed projects.
 
 ![Portfolio Screenshot](readme-images/about-page.png)
