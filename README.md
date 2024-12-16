@@ -1,26 +1,19 @@
-# Portfolio README
+# FATIMA PURA'S PORTFOLIO
 
-Welcome to the portfolio of **Fatima Pura**, a first-year BS Computer Science student at Batangas State University - Alangilan Campus. This portfolio showcases my projects, skills, and contact information in an interactive and visually engaging format.
+Welcome to my personal portfolio! This website showcases my personal information, skills, projects, and contact information. Below are the instructions to help you navigate through it.
 
 ---
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [How to Navigate](#how-to-navigate)
-3. [Home](#home)
-4. [About](#about)
-5. [Skills](#skills)
-6. [Projects](#projects)
-7. [Contact](#contact)
-8. [Features](#features)
-9. [Dependencies](#dependencies)
-
----
-
-## Introduction
-
-Welcome to my personal portfolio! This website showcases my personal information, skills, projects, and contact information. Below are the instructions to help you navigate through it.
+1. [How to Navigate](#how-to-navigate)
+2. [Home](#home)
+3. [About](#about)
+4. [Skills](#skills)
+5. [Projects](#projects)
+6. [Contact](#contact)
+7. [Features](#features)
+8. [Dependencies](#dependencies)
 
 ---
 
