@@ -18,7 +18,7 @@ Explore the portfolio using the navigation bar, which links to key sections:
 - **Home:** Introduction and tagline.  
 - **About:** Background and academic details.  
 - **Skills:** Technologies and tools I use.  
-- **Projects:** Notable works with descriptions and links.  
+- **Projects:** Notable projects with descriptions and links.  
 - **Contact:** Ways to connect with me.  
 
 ---
