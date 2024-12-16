@@ -6,24 +6,17 @@ Welcome to my personal portfolio! This website showcases my personal information
 
 ## Table of Contents
 
-1. [How to Navigate](#how-to-navigate)
-2. [Home](#home)
-3. [About](#about)
-4. [Skills](#skills)
-5. [Projects](#projects)
-6. [Contact](#contact)
-7. [Features](#features)
-8. [Dependencies](#dependencies)
+### How to Navigate
 
----
+1. [Home](#home)
+2. [About](#about)
+3. [Skills](#skills)
+4. [Projects](#projects)
+5. [Contact](#contact)
 
-## How to Navigate
-
-1. **Home**: A welcoming introduction to who I am, with quick navigation to other sections.
-2. **About**: Detailed information about my academic background and interests.
-3. **Skills**: A breakdown of my current technical skills in frontend, backend, frameworks, and tools.
-4. **Projects**: A showcase of my notable projects, with links to their respective GitHub repositories.
-5. **Contact**: Ways to connect with me via email or phone.
+### PROGRAM DETAILS
+1. [Features](#features)
+2. [Dependencies](#dependencies)
 
 ---
 
