@@ -1,6 +1,6 @@
 # Fatima Pura's Portfolio  
 
-Welcome to the portfolio of **Fatima Pura**, a first-year BS Computer Science student at Batangas State University - Alangilan Campus. This portfolio highlights my journey, featuring my background, key projects, technical skills, and ways to connect with me.
+Welcome to the portfolio of **Fatima Pura**, a first-year BS Computer Science student at Batangas State University - Alangilan Campus. This portfolio highlights my journey, featuring my background, projects, technical skills, and ways to connect with me.
 
 ### Table of Contents  
 - [How to Navigate](#how-to-navigate)  
