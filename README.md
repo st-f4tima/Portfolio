@@ -47,9 +47,9 @@ The **About** section provides a more detailed description of me, including:
 
 ## Skills
 In the **Skills** section, you can explore the programming languages and technologies I am practicing and working with:
-- **Frontend Development**: HTML, CSS, JavaScript
+- **Frontend Development**: HTML, CSS
 - **Backend Development**: Python, C++
-- **Frameworks**: Tailwind, React
+- **Frameworks**: Tailwind
 - **Tools**: VS Code, DevC++, GitHub, Git
 
 ![Portfolio Screenshot](readme-images/skills-page.png)
