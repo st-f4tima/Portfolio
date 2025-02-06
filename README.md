@@ -52,10 +52,7 @@ In the **Skills** section, you can explore the programming languages and technol
 - **Frameworks**: Tailwind
 - **Tools**: VS Code, DevC++, GitHub, Git
 
-![Portfolio Screenshot](readme-images/skills-page.png)
-
-![Portfolio Screenshot](readme-images/skills-page.png)
-
+![Portfolio Screenshot](readme-images\skills-page.png)
 
 ## Projects
 The **Projects** section showcases my notable projects. Each project has a description and a link to the GitHub repository:
