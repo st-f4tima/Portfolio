@@ -54,6 +54,9 @@ In the **Skills** section, you can explore the programming languages and technol
 
 ![Portfolio Screenshot](readme-images/skills-page.png)
 
+![Portfolio Screenshot](readme-images/skills-page.png)
+
+
 ## Projects
 The **Projects** section showcases my notable projects. Each project has a description and a link to the GitHub repository:
 1. **CompuCourse**: A C++-based course management system.
